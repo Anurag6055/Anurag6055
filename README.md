@@ -27,5 +27,5 @@ I am on a continuous learning crusade, staying updated on the latest tools, tech
 Join me on this thrilling expedition through the data-driven cosmos. Together, let's turn bits and bytes into knowledge and insights!
 Connect with me and let's embark on a data science adventure! 🚀
 
-[LinkedIn]((https://www.linkedin.com/in/anurag-anugam-768404175/))
+[LinkedIn]((https://www.linkedin.com/in/anurag-anugam/))
 
