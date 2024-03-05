@@ -10,7 +10,7 @@ My passion lies in deciphering the hidden stories within datasets.
 From unraveling complex patterns to predicting future trends, I thrive on the excitement of turning raw data into meaningful narratives.
 
 ## 💻 Coding Alchemist
-I speak the language of Python, R, Excel, JAVA and SQL fluently, transforming lines of code into magical spells that bring data to life. 
+I speak the language of Python, SQL, R and Excel fluently, transforming lines of code into magical spells that bring data to life. 
 My GitHub repositories are like spellbooks, filled with incantations that weave together the fabric of data science.
 
 ## 🛠️ Building Bridges Between Data and Decisions
